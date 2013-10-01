@@ -11,7 +11,7 @@ Questions:
 + What is our 'stack'? or, workflow?
 
 Group
-Data (curator)
-Analysis (producer)
-Visualization
-Presenter
+- Data (curator)
+- Analysis (producer)
+- Visualization
+- Presenter
