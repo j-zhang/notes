@@ -2,24 +2,27 @@
 
 ###Questionnaire:
 
-####group-1
+#####group-1
++ analyzed: learning style (learning), where did you gain experience in the languages (personal)
++ curation in python, data analysis in R, visualization in python, presented in iPython Notebook
++ takeaways: comfortable being specialist versus comfort being generalist, the two types of people working together 
 
-####group-2
+#####group-2
 
-####group-3
+#####group-3
 
-####group-4
+#####group-4
 
-####group-5
+#####group-5
 
-####group-6
+#####group-6
 
-####group-7
+#####group-7
 
-####group-8
+#####group-8
 
-####group-9
+#####group-9
 
-####group-10
+#####group-10
 
-####group-11
+#####group-11
