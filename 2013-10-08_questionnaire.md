@@ -8,6 +8,9 @@
 + takeaways: comfortable being specialist versus comfort being generalist, the two types of people working together 
 
 #####group-2
++ analyzed: learning style, any relationship between how people learn and roles they take on in groups
++ focused on reproducibility and consistency in coding
++ takeaways: collaboration and passing tasks along
 
 #####group-3
 
