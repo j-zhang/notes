@@ -15,6 +15,11 @@
 #####group-3
 
 #####group-4
++ curation in python, removed data that wasn't there
++ roadblock, need to run VM
++ saw no relationship between learning styles
++ takeaways: groupwork, stepping up, maybe students didn't know how to fill out the survey
+  + had suggestions around technical leads in each group
 
 #####group-5
 
