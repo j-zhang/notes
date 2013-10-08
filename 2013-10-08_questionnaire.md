@@ -22,15 +22,38 @@
   + had suggestions around technical leads in each group
 
 #####group-5
++ data, information, insight
 
 #####group-6
++ focused on reproducibility
++ roadblock with tilda ~, having trouble transferring between group members
++ analyzed: learning style and role
++ how likely someone is going to be an administrator based on learning style
 
 #####group-7
++ analyzed: learning style and where learned
++ curated in python then analysis in R
++ all possible learning styles and used pairwise t-tests, no significant differences
++ violin plots and heatmap
++ work in distributed fashion
 
 #####group-8
++ learning preferences (learning style), known computer languages
++ curation in python, analysis in R, visualization in R
++ major roadblocks and resolutions
 
 #####group-9
++ pie chart of programming proficiencies
++ abstract processes away
++ roadblocks of being short a member and figuring out how to proceed
 
 #####group-10
++ pie chart and word cloud of programming languages
++ any correlation between learning styles and languages
++ didn't meet in person
 
 #####group-11
++ perfection is the enemy
++ everyone got their feet wet in the various stages
++ notions of collaboration and reproducibility
++ reproducibility can be in different parts and also with instructions
