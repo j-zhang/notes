@@ -13,6 +13,10 @@
 + takeaways: collaboration and passing tasks along
 
 #####group-3
++ analyzed: technical lead
++ reproducibility around code in visualization python, so went back to R for reproducibility
++ dotchart
++ roadblocks: communication 
 
 #####group-4
 + curation in python, removed data that wasn't there
